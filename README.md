@@ -1,51 +1,26 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# The Witch Queen 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Arte digital criada de uma jovem rainha em um reino de bruxas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DALL-E
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Passando instruções detalhadas para a IA sobre a descrição da personagem e corrigindo os detalhes aos poucos com novas instruções e marcações de pontos importantes que a ferramenta disponibiliza.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Na primera tentativa a maioria dos detalhes que passei foram atendidas, porém houve alguns erros em questões como cores, texturas e até o acréscimo de informações desnecessárias e não pedidas. Tentei ir mostrando os pontos errados e descrevendo a forma correta que deveria estar para serem corrigidos, porém quanto mais eu tentava corrigir, pior ficava ou nenhuma alteração realmente ocorria. Apenas uma correção foi feita acertivamente. (Imagem do Drive intitulada "WitchQueen01")
+Na segunda tentativa, a IA conseguiu algo mais próximo do que pensei, mas conforme eu tentava melhorar os pontos que faltavam a ideia foi se quebrando e se perdendo. Novamente apenas uma correção foi realmente acertiva. (Imagem do Drive intitulada "WitchQueen" e "WitchQueen1")
+Na terceira tentativa, pedi para que a arte digital passasse para algo mais feito a mão, neste ponto a IA mudou o design total do que era anterior, mas ainda conseguiu ficar bem próxima do que eu esperava. Neste modelo, as correções e melhorias eram mais precisas e acertivas. (Imagem do Drive intitulada "WitchQueen2")
+Na quarta e última tentativa, comecei a exigir que a IA refizesse a arte quando errasse qualquer correção que eu pedisse até atingir um resultado satisfatório, porém não sendo exatamente o que eu esperava. (Imagem do Drive intitulada "WitchQueen3")
+
+Link do Drive: https://drive.google.com/drive/folders/1evC_WCx2cykdyQJCu2KyYDU-pClAAX8p?usp=sharing
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Quando se está criando imagens com a ajuda da IA é preciso ser extremamente detalhista e descrever cada informação que seja importante e onde está localizado para que ela seja o mais precisa possível, pois se deixar algo vago e tentar acrescentar depois de a imagem já ter sido gerada, será mais difícil a IA conseguir interpretar o local e a forma correta de se colocar na imagem, tendo assim uma maior dificuldade em adquirir o que você esperava. Pequenas correções serão mais fáceis para ela, principalmente de remoção de informação da imagem, por isso é melhor pecar pelo excesso do que pela falta.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
